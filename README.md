@@ -1,70 +1,30 @@
-# Getting Started with Create React App
+<h1 align="center"> Buscador de CEP</h1>
+<br>
+<br>
+<p align="center">
+<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+ <img src="http://img.shields.io/static/v1?label=VERSION&message=1.1.1&color=blue&style=for-the-badge"/>
+</p>
+<br>
+<h2>:clipboard: Descrição do projeto</h2>
+<p>Template da parte de endereço de um formulário padrão, que usa Fetch para preencher automaticamente os campos de endereço,
+  e tem campos que são validados através do HTML e Javascript.</p>
+<br>
+<h2> :hammer: Funcionalidades</h2>
+<p>:heavy_check_mark: Validação dos campos que necessitam dessa verificação</p>
+<p>:heavy_check_mark: Preenchimento dos campos de endereço baseados no CEP digitado pelo usuário</p>
+<br>
+<h2>:dart: Aplicação</h2>
+<img src="https://user-images.githubusercontent.com/88466458/162102819-613309eb-8e70-40d0-919c-769be028a5bf.gif">
+<br>
+<h2>🛠️ Tecnologias usadas</h2>
+<img src="https://i.imgur.com/H6mbQBX.png" width="80" height="80">
+<img src="https://i.imgur.com/s2eFt6O.png" width="80" height="80">
+<img src="https://i.imgur.com/jSmFeIS.png" width="70" height="70">
+<br>
+<h2>:file_folder: Acesso ao projeto</h2>
+<p>Aqui está o link para o <a href="https://github.com/dieggoalves/dados-com-fetch">código fonte</a> do projeto, ou você baixá-lo <a href="https://github.com/dieggoalves/dados-com-fetch/archive/refs/heads/main.zip">aqui.</a></p>
+<br>
+<h2>:pencil2: Desenvolvedor</h2>
+<a href="https://github.com/dieggoalves"><img src="https://avatars.githubusercontent.com/u/88466458?v=4" width=115><p>Diego Alves</p></a>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
